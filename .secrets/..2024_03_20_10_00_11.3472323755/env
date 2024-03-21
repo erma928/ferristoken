@@ -1,0 +1,4 @@
+
+DEFAULT_RPC_NODE=https://node-1-7961.gke-singapore.settlemint.com/sm_sat_f9a413c2518458ca
+DEFAULT_IPFS=https://api.thegraph.com/ipfs/
+    

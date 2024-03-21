@@ -1,0 +1,29 @@
+{
+  "namedAccounts": {
+    "ferriskey-a6ca": {
+      "default": "0xdbB0C1c4493FC7B4aBD4B0EC480FE83cbd407432"
+    },
+    "deployer": {
+      "default": "0xdbB0C1c4493FC7B4aBD4B0EC480FE83cbd407432"
+    },
+    "wallet": {
+      "default": "0xdbB0C1c4493FC7B4aBD4B0EC480FE83cbd407432"
+    }
+  },
+  "networks": {
+    "hardhat": {
+      "chainId": 1337
+    },
+    "node-1-7961": {
+      "url": "https://node-1-7961.gke-singapore.settlemint.com",
+      "chainId": 41736,
+      "blockGasLimit": 9007199254740991,
+      "gas": "auto",
+      "gasPrice": 0,
+      "httpHeaders": {
+        "x-auth-token": "sm_sat_b14248ab41c0971d"
+      }
+    }
+  },
+  "ipfsNodeConfig": {}
+}
